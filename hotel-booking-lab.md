@@ -412,7 +412,7 @@ Server running on port 3001
 ### 📸 บันทึกผลการทดลอง: ผลการรัน Backend Server
 
 > แทรกรูปภาพที่นี่
-
+![alt text](image.png)
 ---
 
 ## การทดลองที่ 2: การทดสอบ API ด้วย Postman
@@ -458,7 +458,7 @@ Server running on port 3001
 
 ### 📸 บันทึกผลการทดลอง: ผลการทดสอบ Login และ Token
 
-> แทรกรูปภาพที่นี่
+> ![alt text](image-1.png)
 
 ---
 
